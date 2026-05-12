@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">简易音乐播放器</string>
+    <string name="app_description">专为Android 5.1打造的音乐播放器</string>
+</resources>

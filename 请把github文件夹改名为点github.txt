@@ -1,0 +1,7 @@
+# 📝 重命名说明
+因为Windows默认隐藏以点开头的文件夹，所以我把 .github 改名为 github。
+您上传前需要：
+1. 右键点击 github 文件夹 → 重命名
+2. 把名字改成 .github
+3. 按回车确认
+这样Github就能识别到workflow文件了！
